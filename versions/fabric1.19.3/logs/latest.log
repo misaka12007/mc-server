@@ -1,0 +1,11 @@
+[08:34:38] [main/INFO]: Loading Minecraft 1.19.3 with Fabric Loader 0.14.13
+[08:34:38] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[08:34:38] [main/INFO]: Loading 3 mods:
+	- fabricloader 0.14.13
+	- java 17
+	- minecraft 1.19.3
+[08:34:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/mc-server/versions/fabric1.19.3/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[08:34:46] [main/INFO]: Building unoptimized datafixer
+[08:34:49] [main/ERROR]: Failed to load properties from file: server.properties
+[08:34:49] [main/WARN]: Failed to load eula.txt
+[08:34:49] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
