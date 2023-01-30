@@ -1,0 +1,47 @@
+world:
+  keepSpawnInMemory: true
+  enableSkipEntityTick: true
+  enableSkipTileEntityTick: false
+  worldGenMaxTick: 15
+  disableForgeGenerateWorlds:
+  - ExampleCustomWorld
+  preventBlockLoadChunk: false
+  autoUnloadDimensions:
+  - 99999999
+  enableRealtime: false
+  forceSaveOnWatchdog: true
+  maxEntityCollision: 8
+  saveBukkitWorldDimensionId: true
+fakePlayer:
+  permissions:
+  - essentials.build
+  eventPass: false
+vanilla:
+  fixPlayBossSoundToOtherWorld: true
+  fixLessCrystalRespawnDragon: false
+  preventPistonPushTileEntity: true
+  preventPistonPushRail: false
+  preventPistonPushSlimeBlock: false
+  limitFastClickGUI: false
+plugin:
+  patcher:
+    enableDynmapCompatible: true
+    enableCoreProtectModBlockCompatible: true
+    enableEssentialsNewVersionCompatible: true
+    enableMythicMobsPatcherCompatible: true
+    enableWorldEditCompatible: true
+    enableCitizensCompatible: true
+    enableSuperiorSkyblock2Compatible: true
+  disableHopperMoveEventWorlds: []
+  defaultInstall:
+    spark: true
+async:
+  waitForgeServerChatEvent: false
+security:
+  opManager: false
+  gameModeManager: false
+disableUpdateGameProfile: false
+disableFMLHandshake: false
+disableFMLStatusModInfo: false
+disableAsyncCatchWarn: false
+versionCheck: true

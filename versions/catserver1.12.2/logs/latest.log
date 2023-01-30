@@ -1,0 +1,60 @@
+[11:55:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:55:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:55:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:55:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[11:55:42] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_362, running on Linux:amd64:5.4.0-1100-azure, installed at /usr/lib/jvm/zulu8-ca-amd64/jre
+[11:55:42] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[11:55:42] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[11:55:42] [main/WARN] [FML]: The coremod CatCorePlugin (catserver.server.CatCorePlugin) is not signed!
+[11:55:42] [main/INFO] [FML]: Searching /workspaces/mc-server/versions/catserver1.12.2/./mods for mods
+[11:55:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:55:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:55:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:55:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:55:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:55:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:55:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:55:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:55:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:55:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:55:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[11:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[11:55:51] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[11:55:51] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:55:51] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[11:55:51] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[11:55:51] [Server thread/INFO] [FML]: Searching /workspaces/mc-server/versions/catserver1.12.2/./mods for mods
+[11:55:52] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[11:55:52] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[11:55:52] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[11:55:52] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[11:55:53] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[11:55:53] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[11:55:53] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[11:55:53] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[11:55:53] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:55:53] [Server thread/INFO] [FML]: Applying holder lookups
+[11:55:53] [Server thread/INFO] [FML]: Holder lookups applied
+[11:55:53] [Server thread/INFO] [FML]: Applying holder lookups
+[11:55:53] [Server thread/INFO] [FML]: Holder lookups applied
+[11:55:53] [Server thread/INFO] [FML]: Applying holder lookups
+[11:55:53] [Server thread/INFO] [FML]: Holder lookups applied
+[11:55:53] [Server thread/INFO] [FML]: Applying holder lookups
+[11:55:53] [Server thread/INFO] [FML]: Holder lookups applied
+[11:55:53] [Server thread/INFO] [FML]: Injecting itemstacks
+[11:55:53] [Server thread/INFO] [FML]: Itemstack injection complete
+[11:55:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[11:55:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[11:55:54] [Server thread/INFO] [Minecraft]: This server is running CatServer version git-CatServer-1.12.2-dae70adc (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[11:55:54] [Server thread/INFO] []: Server Ping Player Sample Count: 12
+[11:55:54] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[11:55:54] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[11:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[11:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[11:55:55] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[11:55:55] [Server thread/INFO] [FML]: Applying holder lookups
+[11:55:55] [Server thread/INFO] [FML]: Holder lookups applied
+[11:55:55] [Server thread/INFO] [FML]: Injecting itemstacks
+[11:55:55] [Server thread/INFO] [FML]: Itemstack injection complete
+[11:55:55] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[11:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"

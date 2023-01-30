@@ -1,2 +1,2 @@
 #!/bin/bash
-zulu8 -Xmx2G -jar server.jar
+"/usr/lib/jvm/zulu8/bin/java" -Xmx2G -jar server.jar
