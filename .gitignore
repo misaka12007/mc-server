@@ -3,5 +3,5 @@
 **/logs/
 **/.fabric/
 **/mods/
-**/world
+**/world/
 /frp/frpc
