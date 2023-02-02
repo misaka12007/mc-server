@@ -8,4 +8,5 @@ apt install zulu8-jdk
 "/usr/lib/jvm/zulu8/bin/java" -version && echo "java8 installed."
 echo "installing CatServer..."
 wget https://catmc.org/download/universal -O server.jar && echo "CatServer installed."
+./instmod.sh
 echo "--- server [CatServer1.12.2] installation finished ---"
