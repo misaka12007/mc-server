@@ -2,3 +2,4 @@
 **/libraries/
 **/logs/
 **/.fabric/
+/frp/frpc
