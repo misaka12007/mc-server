@@ -2,4 +2,6 @@
 **/libraries/
 **/logs/
 **/.fabric/
+**/mods/
+**/world
 /frp/frpc
